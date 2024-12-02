@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         //1calcScore.calculateScore();
-        fizzBuzz.fizzBuzzLoop();
+        //fizzBuzz.fizzBuzzLoop();
+        //DoubleCheck.doubleCheck();
+        plusOne.callPlusOne();
     }
 }
