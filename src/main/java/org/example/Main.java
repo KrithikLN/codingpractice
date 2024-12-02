@@ -8,6 +8,7 @@ public class Main {
         //fizzBuzz.fizzBuzzLoop();
         //DoubleCheck.doubleCheck();
         //plusOne.callPlusOne();
-        binaryOperators.callBinaryOperator();
+        //binaryOperators.callBinaryOperator();
+        missingNumber.callMissingNumber();
     }
 }
