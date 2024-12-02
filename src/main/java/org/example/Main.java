@@ -7,6 +7,7 @@ public class Main {
         //1calcScore.calculateScore();
         //fizzBuzz.fizzBuzzLoop();
         //DoubleCheck.doubleCheck();
-        plusOne.callPlusOne();
+        //plusOne.callPlusOne();
+        binaryOperators.callBinaryOperator();
     }
 }
