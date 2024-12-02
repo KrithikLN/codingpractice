@@ -60,7 +60,5 @@ public class dayOftheweek {
         } else {
             System.out.println("Invalid year");
         }
-
-
     }
 }
