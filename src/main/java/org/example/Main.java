@@ -9,7 +9,8 @@ public class Main {
         //DoubleCheck.doubleCheck();
         //plusOne.callPlusOne();
         //binaryOperators.callBinaryOperator();
-        missingNumber.callMissingNumber();
-        sum2DArray.callSum2DArray();
+        //missingNumber.callMissingNumber();
+        //sum2DArray.callSum2DArray();
+        flippingImage.callflippingImage();
     }
 }
