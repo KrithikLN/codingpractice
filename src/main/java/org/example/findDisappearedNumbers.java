@@ -20,10 +20,12 @@ public class findDisappearedNumbers {
         Set<Integer> hashSet= new HashSet<>();
         ArrayList<Integer> list = new ArrayList<>();
 
+        //Adding nums to hashmap
         for(int i : arr)
         {
             hashSet.add(i);
         }
+        //Iterating through [1,n] to check if it does not contain
         for(int i = 1; i <= arr.length; i++)
         {
             if(!(hashSet.contains(i)))
