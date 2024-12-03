@@ -13,6 +13,7 @@ public class Main {
         //sum2DArray.callSum2DArray();
         //flippingImage.callflippingImage();
         //findDisappearedNumbers.callfindDisappearedNumbers();
-        subtractProductAndSum.callSubtractProductAndSum();
+        //subtractProductAndSum.callSubtractProductAndSum();
+        toLowerCase.calltoLowerCase();
     }
 }
