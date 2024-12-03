@@ -11,6 +11,7 @@ public class Main {
         //binaryOperators.callBinaryOperator();
         //missingNumber.callMissingNumber();
         //sum2DArray.callSum2DArray();
-        flippingImage.callflippingImage();
+        //flippingImage.callflippingImage();
+        //findDisappearedNumbers.callfindDisappearedNumbers();
     }
 }
