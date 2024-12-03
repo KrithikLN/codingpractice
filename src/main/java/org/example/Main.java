@@ -10,5 +10,6 @@ public class Main {
         //plusOne.callPlusOne();
         //binaryOperators.callBinaryOperator();
         missingNumber.callMissingNumber();
+        sum2DArray.callSum2DArray();
     }
 }
