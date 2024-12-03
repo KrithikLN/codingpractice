@@ -8,6 +8,9 @@ public class plusOne {
         System.out.println("Input : " + java.util.Arrays.toString(digits)+"\n Output : "+java.util.Arrays.toString(plusOne(digits)));
         digits = new int[]{9};
         System.out.println("Input : " + java.util.Arrays.toString(digits)+"\n Output : "+java.util.Arrays.toString(plusOne(digits)));
+        digits = new int[]{ 1, 2,9};
+        System.out.println("Input : " + java.util.Arrays.toString(digits)+"\n Output : "+java.util.Arrays.toString(plusOne(digits)));
+
     }
     public static int[] plusOne(int[] digits) {
         for (int i = digits.length - 1; i >= 0; i--) {
@@ -17,7 +20,7 @@ public class plusOne {
             }
             digits[i] = 0;
         }
-
+        // Takes the array values from digits automatically
         int[] ans = new int[digits.length + 1];
         ans[0] = 1;
         return ans;
