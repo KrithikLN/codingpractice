@@ -14,6 +14,7 @@ public class Main {
         //flippingImage.callflippingImage();
         //findDisappearedNumbers.callfindDisappearedNumbers();
         //subtractProductAndSum.callSubtractProductAndSum();
-        toLowerCase.calltoLowerCase();
+        //toLowerCase.calltoLowerCase();
+        powerOfTwo.callpowerOfTwo();
     }
 }
